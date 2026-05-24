@@ -1,0 +1,335 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: sasankadeva
+version: "23052061"
+sort: original
+use_preset_vocabulary: false
+...
+
+ক	k
+্ক	K
+খ	kh
+্খ	Kh
+গ	g
+সহ	sh
+্গ	G
+ঘ	gh
+্ঘ	Gh
+চ	c
+্চ	C
+ছ	ch
+্ছ	Ch
+জ	j
+ঝ	jh
+্ঝ	Jh
+ঞ	&
+ট	T
+ঠ	Th
+ড	D
+ঢ	Dh
+ণ	N
+ত	t
+থ	th
+দ	d
+ধ	dh
+ন	n
+প	p
+্প	P
+্ফ	Ph
+্পহ	Phh
+্ফহ	Phhh
+ফ	ph
+ফ	f
+্ফ	F
+ব	b
+ভ	bh
+্ব	B
+্ভ	Bh
+্ত	V
+্তহ	Vhh
+্থ	Vh
+ভ	v
+্দ	W
+্ধ	Wh
+্দহ	Whh
+্ধহ	Whh
+ম	m
+্ম	M
+্জ	J
+য	z
+র	r
+ল	l
+শ	S
+ষ	Sh
+শহ	Shh
+ষহ	Shhh
+ষ্ণ	Sh>
+স	s
+হ	h
+ক্ষ	x
+ড়	q
+ঢ়	Q
+য়	y
+য	Y
+্ট	Z
+্ঠ	Zh
+্টহ	Zhh
+্ঠহ	Zhhh
+্ড	X
+্ঢ	Xh
+্ডহ	Xhh
+্ঢহ	Xhhh
+তং	t`
+ৎ	t``
+ং	`
+ঃ	H
+কহ	khh
+খহ	khhh
+গহ	ghh
+ঘহ	ghhh
+চহ	chh
+ছহ	chhh
+জহ	jhh
+ঝহ	jhhh
+টহ	Thh
+ঠহ	Thhh
+ডহ	Dhh
+ঢহ	Dhhh
+তহ	thh
+থহ	thhh
+দহ	dhh
+ধহ	dhhh
+পহ	phh
+ফহ	phhh
+বহ	bhh
+ভহ	bhhh
+ঁ	~
+৺	^
+া	a
+ আ	 a
+আ	aa
+ ‘আ	 'a
+ “আ	 "a
+অ	A
+আ	AA
+ঽ	hh
+ি	i
+ী	ii
+ী	ee
+ই	I
+ঈ	II
+ ই	 i
+ ঈ	 ii
+ ‘ই	 'i
+ ‘ঈ	 'ii
+ “ই	 "i
+ “ঈ	 "ii
+ু	u
+ূ	uu
+উ	U
+ঊ	UU
+ উ	 u
+ ঊ	 uu
+ “উ	 "u
+ ‘ঊ	 'uu
+ ‘উ	 'u
+ “ঊ	 "uu
+ৃ	<
+রর	rr
+র্	rr
+ররি	rri
+ৃ	rri
+ঋ	R
+ঌ	LLi
+ে	e
+এ	E
+ এ	 e
+ো	o
+ও	O
+ ও	 o
+ৈ	ai
+ৌ	au
+১	1
+২	2
+৩	3
+৪	4
+৫	5
+৬	6
+৭	7
+৮	8
+৯	9
+০	0
+অ	A
+আ	AA
+ই	I
+ঈ	II
+উ	U
+ঊ	UU
+এ	E
+এই	Ei
+ঐ	AI
+ও	O
+ঔ	AU
+ঐ	Ai
+ঔ	Au
+ ‘ঐ	 'ai
+ ‘ঔ	 'au
+ ঐ	 ai
+ ঔ	 au
+ “ঐ	 "ai
+ “ঔ	 "au
+াও	ao
+আও	 ao
+াই	aii
+াউ	auu
+েই	ei
+ এই	 ei
+েঈ	eii
+ এইই	 eii
+েউ	eu
+েঊ	euu
+িউ	iu
+ ইউ	 iu
+িঊ	iuu
+ ইঊ	 iuu
+ীউ	iiu
+ঈউ	iiu
+িয়ে	ie
+ ইযে	 ie
+িই	iii
+ীই	iiii
+ুউ	uuu
+ূউ	uuuu
+ুই	ui
+ উই	 ui
+ূই	uui
+ ঊই	 uui
+ুঈ	uii
+ উঈ	 uii
+ূঈ	uuii
+ ঊঈ	 uuii
+ওয়া	oa
+োই	oi
+ ওই	 oi
+এই	Ei
+ওই	Oi
+ৌই	aui
+ই	oii
+উ	ouu
+ীই	eei
+ৃই	<i
+ুও	uo
+ূও	uuo
+েআ	ea
+েয়া	ea
+েওয়া	eoa
+াওয়া	aoa
+েওয়া	ewa
+েও	eo
+িও	io
+ীও	iio
+িয়া	ia
+িআ	ia
+ীআ	iia
+উও	 uo
+ঊও	 uuo
+এআ	 ea
+এয়া	 ea
+এও	 eo
+ইও	 io
+ঈও	 iio
+িয়া	 ia
+ইআ	 ia
+ঈআ	 iia
+উয়া	 ua
+উআ	 ua
+ঊয়া	 uua
+ঊআ	 uua
+ুয়া	ua
+ুআ	ua
+ূয়া	uua
+ূআ	uua
+ায়ে	ae
+ুয়ে	ue
+োয়া	oa
+ ওয়া	 oa
+ ‘	 '
+’	'
+ “	 "
+”	"
+্	\
+্	,,
+,	,
+।	.
+॥	..
+…	...
+!	!
+?	?
+*	*
+(	(
+)	)
+;	;
+:	:
+-	-
+%	%
+—	--
+্য	]
+জ্ঞ	jNG
+জ্ঞ	j>
+ঞ্জ	nJ
+ঙ্গ	nG
+ঙ্ঘ	nGh
+ঙ্ক	nK
+ঙ	Ng
+ঙ্খ	nKh
+ঞ্ঝ	nJh
+্র	/
+/	//
+ন্	n\
+ঙ্ক্ষ	n\x
+্ন	>
+্ণ	>>
+্ণ	[
+wb	w
+সহর	shr
+শ্র	shr
+্ল	L
+‌	‌_
+্র	[
+ঞ্চ	nC
+ঞ্ছ	nCh
+ঞ	NG
+ 	 
+!	!
+₹	$
+$	$$
+ৠ	R<
+ৄ	<<
+ৢ	}
+ৣ	}}
+ৡ	LLi}
+ঽ	HH
+𑁍	#
+☸	@
+𑁉	.\.
+𑁊	.\..
+𑁋	.\--
+𑁌	.\)
+ওঁ	O~
+🕉	O~~
+ༀ	O\t~
+ॐ	O\d~
+ওঁ	O\b~
+ꣽ	O\~dj
+র্	|
+🇮🇳	##
+#	###
+ৎ	{
+◌	@@
+‍র‍্য	r]
+‍	++
+​	__
+॑	u\
+॒	a\

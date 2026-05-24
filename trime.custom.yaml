@@ -1,0 +1,15 @@
+# trime.custom.yaml
+# Patching the keyboard engine to display English labels
+
+patch:
+  "preset_keys/space/label": "Space"
+  "preset_keys/BackSpace/label": "⌫"
+  "preset_keys/Return/label": "Enter"
+  "preset_keys/sym/label": "Sym"
+  "preset_keys/globe/label": "Lang"
+  "preset_keys/Menu/label": "Menu"
+  "preset_keys/Clear/label": "Clear"
+  
+  # Fixing the candidate panel navigation indicators
+  "style/page_up_label": "←"
+  "style/page_down_label": "→"

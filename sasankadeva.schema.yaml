@@ -1,0 +1,55 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: sasankadeva
+  name: "শশাঙ্কদেব (Sasankadeva)"
+  version: "1.0"
+  author: "Anamitro Biswas <anamitroappu@gmail.com>"
+  description: "An input method for layout Sasankadeva for typing Bengali and Sanskrit in Bengali script."
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - uniquifier
+
+speller:
+ # Contains all valid input characters from your IBus table definition
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!&+ `$}{<>/\;()%*.,:~!-_^#''@"|?]['
+  max_code_length: 5                     # Your table's maximum defined sequence length
+  auto_select: true                      # Auto-selects when max_code_length is reached
+  auto_select_unique_candidate: true     # Instantly commits if there is only one possible match left
+
+translator:
+  dictionary: sasankadeva
+  enable_charset_filter: false
+  enable_completion: true
+  sentence: false
+  enable_user_dict: false
+
+key_binder:
+  bindings:
+    # Forces Backspace to strictly edit the composition buffer
+    - { when: composing, accept: BackSpace, send: BackSpace }
+
+punctuator:
+  use_space: true
+
+
