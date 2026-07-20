@@ -1,12 +1,10 @@
-# rime-sasanka
+# rime-sasanka [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)
 
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 </head>
-
-[![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)
 
 <img src="cat.png" alt="drawing" width="300"/><img src="er.png" alt="drawing" width="200"/><img src="sasanka_blue.svg" alt="drawing" width="300"/>
 
