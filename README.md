@@ -19,9 +19,8 @@
 - **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
 - **Works with wired/bluetooth remote keyboard, as well as UI.**
 
-This page shows:
+## This page shows:
 1. [How to set up](#installation) [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#installation) [on your device](#installation)
-
    - [Android](#android)
    - [Windows](#windows)
    - [MacOS](#macos)
@@ -99,11 +98,11 @@ Place your custom configuration files in ~/.local/share/fcitx5/rime/
 | <span style="font-family: 'Noto Serif Bengali', serif;">ট</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঠ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ড</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঢ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ণ</span> |
 | <span style="font-family: 'Noto Serif Bengali', serif;">ত</span> | <span style="font-family: 'Noto Serif Bengali', serif;">থ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">দ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ধ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ন</span> |
 | <span style="font-family: 'Noto Serif Bengali', serif;">প</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ফ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ব</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ভ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ম</span> |
-| <span style="font-family: 'Noto Serif Bengali', serif;">য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">র</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ল</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ব</span> | <span style="font-family: 'Noto Serif Bengali', serif;">শ</span> |
+| <span style="font-family: 'Noto Serif Bengali', serif;">য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">র, ৰ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ল</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ব, ৱ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">শ</span> |
 | <span style="font-family: 'Noto Serif Bengali', serif;">ষ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">স</span> | <span style="font-family: 'Noto Serif Bengali', serif;">হ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ড়</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঢ়</span> |
 | <span style="font-family: 'Noto Serif Bengali', serif;">য়</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৎ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ং</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঃ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ঁ</span> |
 
-#### সাধারণ ব্যঞ্জনবর্ণ অ-কারান্ত রূপ ও যুক্তাক্ষরের প্রথম বর্ণ
+#### Stand-alone consonant with অ, first component of a conjunct
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -112,11 +111,11 @@ Place your custom configuration files in ~/.local/share/fcitx5/rime/
 | T | Th | D | Dh | N |
 | t | th | d | dh | n |
 | p | f | b | v/bh | m |
-| z | r | l | b | S |
+| z | r, = | l | b, B | S |
 | Sh | s | h | q | Q |
 | y | { | ` | H | ~ |
 
-#### যুক্তাক্ষরের পরবর্তী বর্ণ
+#### Following components of a conjunct
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -132,7 +131,7 @@ Place your custom configuration files in ~/.local/share/fcitx5/rime/
 All conjunct second components can also be typed as
 > \ (consonant as first component)
 
-#### যুক্তাক্ষরের প্রথম বর্ণ
+#### First component of a conjunct
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -145,17 +144,12 @@ All conjunct second components can also be typed as
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-### Assamese
-
-| <span style="font-family: 'Noto Serif Bengali', serif;">ৰ</span> | <span style="font-family: 'Noto Serif Bengali', serif;">ৱ</span> |
-| --- | --- |
-| = | B |
 
 ### Sanskrit
 
-| 𑁍 | ঽ | ৺ | ্ |
-| --- | --- | --- | --- |
-| # | hh | ^ | \ |
+| 𑁍 | ঽ | ৺ | ্ | ৰ |
+| --- | --- | --- | --- | --- |
+| # | hh | ^ | \ | = |
 
 ### Symbols
 
