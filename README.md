@@ -20,10 +20,27 @@
 
 
 ## Installation
-Install [RIME](https://rime.im/download/).
+Install [RIME](https://rime.im/download/) for your OS. Weasel for Windows etc. I do not recommend any. You'll find good options.
 
 ### TRIME, for Android
 Install [TRIME](https://github.com/osfans/trime). Save the .yaml files to `/storage/emulated/0/rime`. Deploy.
+
+### Windows
+Save the .yaml files to C:\Users\Your_Username\AppData\Roaming\Rime
+
+### MacOS
+Save .yaml files in ~/Library/Rime/ directory on your Mac. Click "Deploy" in the Squirrel Rime menu bar icon.
+
+### iOS
+See [this page](https://blog.fernvenue.com/archives/configure-hamster-and-rime-on-ios/).
+
+### Linux
+#### For IBus:
+Create a custom yaml file using terminal commands like mkdir -p ~/.config/ibus/rime && nano ~/.config/ibus/rime/default.custom.yaml
+#### For Fcitx5:
+Place your custom configuration files in ~/.local/share/fcitx5/rime/
+#### For Linux on desktop/laptop,
+a better similar option might be my [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva).
 
 ## Typing Manual
 
@@ -133,22 +150,15 @@ All conjunct second components can also be typed as
  | <span style="font-family: 'Noto Serif Bengali', serif;">র্য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">‍র‍্য</span> |
  | । z | r] |
  
-### BEGINNERS' VERSION
-For the Beginners version, on typing one consonant key, all the yuktaksharas (conjuncts) possible with that key **EXCEPT য-ফলা (]), র-ফলা (/), ব-ফলা (w), রেফ্ ($$\mid$$ ; before second consonant)** will show up in the suggestion strip. Enable maximum number of suggestions in Ibus Table Preferences.
 
-### NAVIGATION
-**Navigate between suggestions:** Arrow keys
-**Unlike Avro, Space doesn't terminate text unit. Enter does.**
-
-Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a Bengali "Śa", in bold Tiro Bangla font, like the designs of popular ibus-tables, colored as Bharata Mata's attire in Abanindranath Tagore's painting and the topmost panel of the Indian flag.
+Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a Bengali "Śa", in bold Tiro Bangla font, like the designs of popular ibus-tables, colored as Bharata Mata's attire in Abanindranath Tagore's painting.
 
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
 
 **Email:** anamitroappu@gmail.com
 
-[**Homepage**](https://anamitro.github.io)
 
 🇮🇳 Made in India
 
-Copyright (C) 2021-2026 Anamitro Biswas
+Copyright (C) 2021-2026 Anamitro Biswas. Licensed under LGPL 2.1.
