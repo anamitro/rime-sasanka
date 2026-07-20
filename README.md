@@ -8,17 +8,9 @@
 
 <img src="cat.png" alt="drawing" width="300"/><img src="er.png" alt="drawing" width="200"/><img src="sasanka_blue.svg" alt="drawing" width="300"/>
 
-- **Custom Phonetic Engine** It is a specialized Unicode Bengali input engine designed for the rime framework, focusing on a custom phonetic layout that prioritizes ease of typing.
-- **Unique Transcription Rules** The engine uses a unique set of transcription rules specifically tuned for the Bengali language, aiming to provide a more intuitive experience than standard layouts.
-- **Fixed layout** so that the user can type practically without looking at the screen if he chooses to.
-- **Minor conjunct-related grammatical corrections** inbuilt.
-- **Minimized input key strings** for faster typing.
-- **Open Source Accessibility** Developed by Anamitro Biswas, the project is hosted on GitHub to allow for community contributions and transparent development of Bengali digital tools.  
-- **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
-- **Works with wired/bluetooth remote keyboard, as well as UI.**
-
 ## This page shows:
-1. [How to set up](#installation) [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#installation) [on your device](#installation)
+1. [Why use](#why-use) [Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#why-use)
+2. [How to set up](#installation) [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#installation) [on your device](#installation)
    - [Android](#android)
    - [Windows](#windows)
    - [MacOS](#macos)
@@ -29,9 +21,20 @@
    - [Consonants and Conjuncts](#consonants) and [ZWNJ](zero-width-non-joiner)
    - [Assamese variations](#assamese)
    - [Sanskrit](#sanskrit)
-5. [And the author, who doesn't matter](#author)
+4. [And the author, who doesn't matter](#author)
 
 ![](rime-sasanka_poster2.png)
+
+## Why use [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)?
+
+- **Custom Phonetic Engine** It is a specialized Unicode Bengali input engine designed for the rime framework, focusing on a custom phonetic layout that prioritizes ease of typing.
+- **Unique Transcription Rules** The engine uses a unique set of transcription rules specifically tuned for the Bengali language, aiming to provide a more intuitive experience than standard layouts.
+- **Fixed layout** so that the user can type practically without looking at the screen if he chooses to.
+- **Minor conjunct-related grammatical corrections** inbuilt.
+- **Minimized input key strings** for faster typing.
+- **Open Source Accessibility** Developed by Anamitro Biswas, the project is hosted on GitHub to allow for community contributions and transparent development of Bengali digital tools.  
+- **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
+- **Works with wired/bluetooth remote keyboard, as well as UI.**
 
 
 ## Installation
