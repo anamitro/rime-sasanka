@@ -25,7 +25,7 @@
 
 ![](rime-sasanka_poster2.png)
 
-## Why will you use it?
+## Why
 
 - **Custom Phonetic Engine** Unicode Bengali input engine in RIME framework, with phonetic layout that prioritizes ease of typing.
 - **Unique Transcription Rules** for Bengali, more intuitive experience than standard layouts.
