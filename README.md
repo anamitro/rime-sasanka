@@ -19,6 +19,8 @@
 - **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
 - **Works with wired/bluetooth remote keyboard, as well as UI.**
 
+[![](rime-sasanka_poster2.png)]
+
 
 ## Installation
 Install [RIME](https://rime.im/download/) for your OS. Weasel for Windows etc. I do not recommend any. You'll find good options in the internet.
