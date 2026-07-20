@@ -19,14 +19,32 @@
 - **Platform Support** As an ibus based tool, it is primarily designed for Linux environments, enabling seamless Bengali input across various applications and terminal emulators.
 - **Works with wired/bluetooth remote keyboard, as well as UI.**
 
-[![](rime-sasanka_poster2.png)]
+This page shows:
+1. [How to set up [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka) on your device](#installation)
+   - [Android](#android)
+   - [Windows](#windows)
+   - [MacOS](#macos)
+   - [iOS](#ios)
+   - [Linux](#linux)
+3. [How to get started with a comfortable typing experience](#typing-manual)
+   - [Vowels](#vowels)
+   - [Consonants and Conjuncts](#consonants) and [ZWNJ](zero-width-non-joiner)
+   - [Assamese variations](#assamese)
+   - [Sanskrit](#sanskrit)
+5. [And the author, who doesn't matter](#author)
+
+![](rime-sasanka_poster2.png)
 
 
 ## Installation
-Install [RIME](https://rime.im/download/) for your OS. Weasel for Windows etc. I do not recommend any. You'll find good options in the internet.
+Install [RIME](https://rime.im/download/) for your OS. Weasel for Windows etc. I do not recommend any. You'll find good options in the internet. See [this](https://www.mintimate.cc/en/guide/installRime.html).
 
-### TRIME, for Android
+### Android
+#### TRIME for Android
 Install [TRIME](https://github.com/osfans/trime). Save the .yaml files to `/storage/emulated/0/rime`. Deploy.
+
+#### Little Penguin for Android
+See [these instructions](https://fcitx5-android.github.io/installation/)
 
 ### Windows
 Save the .yaml files to C:\Users\Your_Username\AppData\Roaming\Rime
@@ -38,6 +56,7 @@ Save .yaml files in ~/Library/Rime/ directory on your Mac. Click "Deploy" in the
 See [this page](https://blog.fernvenue.com/archives/configure-hamster-and-rime-on-ios/).
 
 ### Linux
+Depending on which input method you use--
 #### For IBus:
 Create a custom yaml file using terminal commands like mkdir -p ~/.config/ibus/rime && nano ~/.config/ibus/rime/default.custom.yaml
 
@@ -154,13 +173,13 @@ All conjunct second components can also be typed as
  | । z | r] |
  
 
-Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo shows a Bengali "Śa", in bold GNU FreeSerif font.
-
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
 
 **Email:** anamitroappu@gmail.com (feel free to get in touch if needed)
 
 🇮🇳 Made in India
+
+Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo shows a Bengali "Śa", in bold GNU FreeSerif font.
 
 Copyright (C) 2021-2026 Anamitro Biswas. Licensed under LGPL 2.1.
