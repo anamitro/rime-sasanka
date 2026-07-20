@@ -39,6 +39,8 @@
 ## Installation
 Install [RIME](https://rime.im/download/) for your OS. Weasel for Windows etc. I do not recommend any. You'll find good options in the internet. See [this](https://www.mintimate.cc/en/guide/installRime.html).
 
+Also, please download the [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://github.com/anamitro/rime-sasanka/releases) program from [the GitHub repository](https://github.com/anamitro/rime-sasanka/releases). Extract the .yaml files. After OS-specific setup, choose Sasanka as input method.
+
 ### Android
 #### TRIME for Android
 Install [TRIME](https://github.com/osfans/trime). Save the .yaml files to `/storage/emulated/0/rime`. Deploy.
