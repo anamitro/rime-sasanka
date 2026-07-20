@@ -29,7 +29,7 @@
 ## Why
 
 - **Custom Phonetic Engine** Unicode Bengali input engine in RIME framework, with phonetic layout that prioritizes ease of typing.
-- **Unique Transcription Rules** for Bengali, more intuitive experience than standard layouts.
+- **Unique Transcription Rules** more intuitive experience than standard layouts.
 - **Fixed layout** you may type without looking at the screen.
 - **Minor conjunct-related grammatical corrections** inbuilt.
 - **Minimized input key strings**, faster typing.
