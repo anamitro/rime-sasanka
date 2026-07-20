@@ -20,7 +20,8 @@
 - **Works with wired/bluetooth remote keyboard, as well as UI.**
 
 This page shows:
-1. [How to set up [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka) on your device](#installation)
+1. [How to set up](#installation) [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#installation) [on your device](#installation)
+
    - [Android](#android)
    - [Windows](#windows)
    - [MacOS](#macos)
