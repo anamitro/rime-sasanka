@@ -36,10 +36,10 @@ See [this page](https://blog.fernvenue.com/archives/configure-hamster-and-rime-o
 ### Linux
 #### For IBus:
 Create a custom yaml file using terminal commands like mkdir -p ~/.config/ibus/rime && nano ~/.config/ibus/rime/default.custom.yaml
+
+A better similar option might be my [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva).
 #### For Fcitx5:
 Place your custom configuration files in ~/.local/share/fcitx5/rime/
-#### For Linux on desktop/laptop,
-a better similar option might be my [ibus-table-sasanka](https://anamitro.github.io/ibus-table-sasankadeva).
 
 ## Typing Manual
 
