@@ -155,8 +155,7 @@ Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
 
-**Email:** anamitroappu@gmail.com
-
+**Email:** anamitroappu@gmail.com (feel free to get in touch if needed)
 
 🇮🇳 Made in India
 
