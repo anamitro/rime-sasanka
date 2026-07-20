@@ -162,10 +162,10 @@ All conjunct second components can also be typed as
  
  **Use:**
  
- | r\z | r_\z |
- | --- | --- |
- | <span style="font-family: 'Noto Serif Bengali', serif;">র্য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">‍র‍্য</span> |
- | । z | r] |
+ | r\z | r_\z | d\z | d\_z |
+ | --- | --- | --- | --- |
+ | <span style="font-family: 'Noto Serif Bengali', serif;">র্য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">‍র‍্য</span> | <span style="font-family: 'Noto Serif Bengali', serif;">দ্য</span> | দ্‌<span style="font-family: 'Noto Serif Bengali', serif;">য</span> |
+ | । z | r] | | |
  
 
 ## Author
