@@ -179,6 +179,6 @@ All conjunct second components can also be typed as
 
 🇮🇳 Made in India
 
-Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo shows a Bengali "Śa", in bold GNU FreeSerif font.
+Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo shows a Bengali "Śa", in GNU FreeSerif font.
 
 Copyright (C) 2021-2026 Anamitro Biswas. Licensed under LGPL 2.1.
