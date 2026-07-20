@@ -152,7 +152,7 @@ All conjunct second components can also be typed as
  | । z | r] |
  
 
-Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo is a Bengali "Śa", in bold Tiro Bangla font, like the designs of popular ibus-tables, colored as Bharata Mata's attire in Abanindranath Tagore's painting.
+Named after King Sasankadeva of Gauda (Bengal) of the 7th century. The logo shows a Bengali "Śa", in bold GNU FreeSerif font.
 
 ## Author
 [Anamitro Biswas](https://anamitro.github.io)
