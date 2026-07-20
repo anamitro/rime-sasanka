@@ -7,6 +7,7 @@
 </head>
 
 [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](https://anamitro.github.io/rime-sasanka)
+
 <img src="cat.png" alt="drawing" width="300"/><img src="er.png" alt="drawing" width="200"/><img src="sasanka_blue.svg" alt="drawing" width="300"/>
 
 - **Custom Phonetic Engine** It is a specialized Unicode Bengali input engine designed for the rime framework, focusing on a custom phonetic layout that prioritizes ease of typing.
