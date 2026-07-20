@@ -6,7 +6,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
 </head>
 
-# Sasankadeva keyboard for Bengali script
 <img src="cat.png" alt="drawing" width="300"/><img src="er.png" alt="drawing" width="200"/><img src="bn-sasankadeva.png" alt="drawing" width="300"/>
 
 - **Custom Phonetic Engine** It is a specialized Unicode Bengali input engine designed for the rime framework, focusing on a custom phonetic layout that prioritizes ease of typing.
