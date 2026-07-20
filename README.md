@@ -9,7 +9,7 @@
 <img src="cat.png" alt="drawing" width="300"/><img src="er.png" alt="drawing" width="200"/><img src="sasanka_blue.svg" alt="drawing" width="300"/>
 
 ## This page shows:
-1. [Why use](#why-will-you-use-it?) [Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#why-will-you-use-it?)
+1. [Why use](#why-will-you-use-it) [Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#why-will-you-use-it)
 2. [How to set up](#installation) [![Static Badge](https://img.shields.io/badge/%E3%9E%A2%E0%A6%B6-blue?style=for-the-badge&link=https%3A%2F%2Fanamitro.github.io%2Frime-sasanka)](#installation) [on your device](#installation)
    - [Android](#android)
    - [Windows](#windows)
