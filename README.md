@@ -19,7 +19,6 @@
 3. [How to get started with a comfortable typing experience](#typing-manual)
    - [Vowels](#vowels)
    - [Consonants and Conjuncts](#consonants) and [ZWNJ](zero-width-non-joiner)
-   - [Assamese variations](#assamese)
    - [Sanskrit](#sanskrit)
 4. [And the author, who doesn't matter](#author)
 
