@@ -151,7 +151,7 @@ All conjunct second components can also be typed as
 ### Space
 One ![Static Badge](https://img.shields.io/badge/_Space_-gray) commits the glyph sequence entered.
 
-![Static Badge](https://img.shields.io/badge/_Space_-black) ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the previous word and renders a blank space after.
+![Static Badge](https://img.shields.io/badge/_Space_-gray) ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the previous word and renders a blank space after.
 
 
 ### Sanskrit
