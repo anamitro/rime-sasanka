@@ -69,6 +69,12 @@ Place your custom configuration files in ~/.local/share/fcitx5/rime/
 
 ## Typing Manual
 
+### Space
+One ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the glyph sequence entered.
+
+![Static Badge](https://img.shields.io/badge/_Space_-black) ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the previous word and renders a blank space after.
+
+
 ### Vowels
 
 |  |  |  |  |
