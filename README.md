@@ -19,8 +19,9 @@
 3. [How to get started with a comfortable typing experience](#typing-manual)
    - [Vowels](#vowels)
    - [Consonants and Conjuncts](#consonants) and [ZWNJ](zero-width-non-joiner)
+   - [Commit text and Space](#space)
    - [Sanskrit](#sanskrit)
-4. [And the author, who doesn't matter](#author)
+5. [And the author, who doesn't matter](#author)
 
 ![](rime-sasanka_poster2.png)
 
@@ -68,12 +69,6 @@ A better similar option might be my [ibus-table-sasanka](https://anamitro.github
 Place your custom configuration files in ~/.local/share/fcitx5/rime/
 
 ## Typing Manual
-
-### Space
-One ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the glyph sequence entered.
-
-![Static Badge](https://img.shields.io/badge/_Space_-black) ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the previous word and renders a blank space after.
-
 
 ### Vowels
 
@@ -152,6 +147,11 @@ All conjunct second components can also be typed as
 |  | । |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+
+### Space
+One ![Static Badge](https://img.shields.io/badge/_Space_-gray) commits the glyph sequence entered.
+
+![Static Badge](https://img.shields.io/badge/_Space_-black) ![Static Badge](https://img.shields.io/badge/_Space_-black) commits the previous word and renders a blank space after.
 
 
 ### Sanskrit
